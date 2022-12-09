@@ -25,7 +25,6 @@ const [opcaoO, setOpcaoO] = useState('O')
 
   const [vencedor, setVencedor] = useState('')
   
-  const [vs, setVs] =useState('')
   const [message, setMessage] = useState('')
   const [messageReceived, setMessageReceived] = useState('')
 
